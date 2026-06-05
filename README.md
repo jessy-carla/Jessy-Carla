@@ -1,75 +1,91 @@
 # Olá, eu sou Jessika Carla! 👋
 
-## Sobre mim
+## 💻 Desenvolvedora Front-End em Formação
 
-🎓 Técnica em Análise e Desenvolvimento de Sistemas pela ETE.
+Sou Técnica em Análise e Desenvolvimento de Sistemas pela ETE e possuo certificação em Programação Front-End pelo programa Bolsa Futuro Digital - APONTI.
 
-💻 Certificada em Programação Front-End pelo programa Bolsa Futuro Digital - APONTI.
+Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilidades em desenvolvimento web e conquistar minha primeira oportunidade na área de tecnologia.
 
-📚 Atualmente estudando e aprimorando conhecimentos em:
+---
+
+## 🚀 Tecnologias
+
 - HTML5
 - CSS3
 - JavaScript
 - React
-- Git e GitHub
-- Desenvolvimento Web Responsivo
-
-Tenho interesse em desenvolvimento web, criação de interfaces modernas, experiência do usuário e aprendizado contínuo na área de tecnologia.
-
----
-
-## Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
+- Git
+- GitHub
+- Responsive Design
 
 ---
 
-## Projetos
+## 📚 Formação
 
-🔹 Portfólio Profissional
+🎓 Técnico em Análise e Desenvolvimento de Sistemas – ETE
 
-🔹 Sistema de Cadastro de Livros
-
-🔹 Landing Pages Responsivas
-
-🔹 Projetos Front-End com React
+🎓 Programação Front-End – Bolsa Futuro Digital (APONTI)
 
 ---
 
-## Formação
+## 🎯 Objetivo Profissional
 
-🎓 Técnico em Análise e Desenvolvimento de Sistemas — ETE
+Busco minha primeira oportunidade como Desenvolvedora Front-End, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções digitais de qualidade.
 
-🎓 Programação Front-End — Bolsa Futuro Digital (APONTI)
-
----
-
-## Objetivo Profissional
-
-Busco uma oportunidade para atuar na área de desenvolvimento web, contribuindo com minhas habilidades técnicas, aprendendo novas tecnologias e participando de projetos inovadores.
+Tenho facilidade para aprender novas tecnologias, gosto de resolver problemas e estou sempre buscando evoluir profissionalmente.
 
 ---
 
-## Estatísticas GitHub
+## 🛠️ Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jessy-Carla&show_icons=true)
+### 🌐 Portfólio Pessoal
+Site desenvolvido para apresentar meus projetos, habilidades e trajetória profissional.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessy-Carla&layout=compact)
+### 📚 Sistema de Cadastro de Livros
+Aplicação para gerenciamento de livros utilizando JavaScript e conceitos de desenvolvimento web.
+
+### 🎨 Landing Pages Responsivas
+Criação de páginas modernas e adaptáveis para diferentes dispositivos.
 
 ---
 
-## Contato
+## 📈 Atualmente Estudando
 
-📧 je.carla@hotmail.com.br
-1
-💼 LinkedIn: www.linkedin.com/in/jéssika-s-46b532b9
+- React
+- Consumo de APIs
+- Componentização
+- Boas práticas de Front-End
+- Versionamento com Git e GitHub
+- Deploy de aplicações
 
+---
 
+## 🌟 Competências
+
+✔ Trabalho em equipe
+
+✔ Organização
+
+✔ Aprendizado contínuo
+
+✔ Resolução de problemas
+
+✔ Comunicação
+
+✔ Comprometimento
+
+---
+
+## 📫 Contato
 
 🐙 GitHub: https://github.com/Jessy-Carla
 
+💼 LinkedIn: www.linkedin.com/in/jéssika-s-46b532b9
+
+
+📧 E-mail: je.carla@hotmail.com.br
+
 ---
 
-⭐ Sempre aprendendo, evoluindo e construindo novos projetos.
+### "A tecnologia move o mundo, e eu estou construindo meu caminho para fazer parte dessa transformação." 🚀
+
