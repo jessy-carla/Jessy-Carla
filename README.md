@@ -13,7 +13,7 @@ Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilida
 - HTML5
 - CSS3
 - JavaScript
-- React
+- React 
 - Git
 - GitHub
 - Responsive Design
