@@ -26,6 +26,7 @@ Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilida
 
 🎓 Programação Front-End – Bolsa Futuro Digital (APONTI)
 
+🎓Técnico em informática para Internet- SENAi(Cursando)
 ---
 
 ## 🎯 Objetivo Profissional
