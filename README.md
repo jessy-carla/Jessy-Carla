@@ -4,7 +4,9 @@
 
 Sou Técnica em Análise e Desenvolvimento de Sistemas pela ETE e possuo certificação em Programação Front-End pelo programa Bolsa Futuro Digital - APONTI.
 
-Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilidades em desenvolvimento web e conquistar minha primeira oportunidade na área de tecnologia.
+Atualmente curso Técnico em Informática para Internet- Senai.
+
+desenvolvo projetos práticos para aprimorar minhas habilidades em desenvolvimento web e conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
 
