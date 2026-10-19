@@ -6,7 +6,7 @@ Sou Técnica em Análise e Desenvolvimento de Sistemas pela ETE e possuo certifi
 
 Atualmente curso Técnico em Informática para Internet- Senai.
 
-desenvolvo projetos práticos para aprimorar minhas habilidades em desenvolvimento web e conquistar minha primeira oportunidade na área de tecnologia.
+Desenvolvo projetos práticos para aprimorar minhas habilidades em desenvolvimento web e conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
 
