@@ -2,7 +2,7 @@
   <img src="./assets/a_dark_mystical_elegant_purple_and_black_themed.png" width="100%" alt="Jéssika Carla — universo bruxa tecnológica">
 </p>
 
-<h1 align="center">☾ Jéssika Carla | Tech Witch</h1>
+<h1 align="center">☾ Jéssika Carla | Tech</h1>
 
 <p align="center">
   <strong>Desenvolvedora Front-End em formação</strong><br>
