@@ -1,94 +1,65 @@
-# Olá, eu sou Jessika Carla! 👋
+# ☾ Jéssika Carla
 
-## 💻 Desenvolvedora Front-End em Formação
+### Desenvolvedora Front-End | React | UX/UI
 
-Sou Técnica em Análise e Desenvolvimento de Sistemas pela ETE e possuo certificação em Programação Front-End pelo programa Bolsa Futuro Digital - APONTI.
-
-Atualmente curso Técnico em Informática para Internet- Senai.
-
-Desenvolvo projetos práticos para aprimorar minhas habilidades em desenvolvimento web e conquistar minha primeira oportunidade na área de tecnologia.
+*Transformando ideias em experiências digitais, com criatividade, lógica e tecnologia.*
 
 ---
 
-## 🚀 Tecnologias
+## ✦ Sobre mim
 
-- HTML5
-- CSS3
+Olá! Sou Jéssika Carla, desenvolvedora em formação, apaixonada por tecnologia, interfaces e resolução de problemas.
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Front-End, enquanto exploro o universo de Python, Inteligência Artificial e Análise de Dados.
+
+Acredito que tecnologia também é criatividade: cada projeto é uma oportunidade de aprender, experimentar e construir algo novo.
+
+## ☽ Tecnologias e ferramentas
+
+**Front-End**
+- HTML5 | CSS3
 - JavaScript
-- React 
-- Git
-- GitHub
-- Responsive Design
-
----
-
-## 📚 Formação
-
-🎓 Técnico em Análise e Desenvolvimento de Sistemas – ETE
-
-🎓 Programação Front-End – Bolsa Futuro Digital (APONTI)
-
-🎓Técnico em informática para Internet- SENAi(Cursando)
----
-
-## 🎯 Objetivo Profissional
-
-Busco minha primeira oportunidade como Desenvolvedora Front-End, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções digitais de qualidade.
-
-Tenho facilidade para aprender novas tecnologias, gosto de resolver problemas e estou sempre buscando evoluir profissionalmente.
-
----
-
-## 🛠️ Projetos em Destaque
-
-### 🌐 Portfólio Pessoal
-Site desenvolvido para apresentar meus projetos, habilidades e trajetória profissional.
-
-### 📚 Sistema de Cadastro de Livros
-Aplicação para gerenciamento de livros utilizando JavaScript e conceitos de desenvolvimento web.
-
-### 🎨 Landing Pages Responsivas
-Criação de páginas modernas e adaptáveis para diferentes dispositivos.
-
----
-
-## 📈 Atualmente Estudando
-
 - React
-- Consumo de APIs
-- Componentização
-- Boas práticas de Front-End
-- Versionamento com Git e GitHub
-- Deploy de aplicações
+- Bootstrap
+- Tailwind CSS
+
+**Dados e Inteligência Artificial**
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+- RAG e LLMs
+
+**Ferramentas**
+- Git e GitHub
+- VS Code
+- Figma
+
+## ✧ Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [Lanmovies](https://github.com/Jessy-Carla) | Aplicação de filmes com React e integração com TMDB |
+| [Análise de Pessoas Desaparecidas](https://github.com/jessy-carla/dataset-pessoas-desaparecidas) | Análise de dados com Python e Pandas |
+| [Portfólio](https://jessy-carla.github.io/portfolio-jessika/) | Projetos e experiências em desenvolvimento Web |
+| [Matrícula Online SENAI](https://github.com/Jessy-Carla) | Projeto de interface Web |
+
+## ☾ Atualmente estudando
+
+- Desenvolvimento Front-End com React.
+- Experiência do usuário e UX/UI.
+- Python e Análise de Dados.
+- Inteligência Artificial e aplicações com RAG.
+
+## ✦ Vamos nos conectar?
+
+- [LinkedIn](https://linkedin.com/in/jéssika-s-46b532b9)
+- [Portfólio](https://jessy-carla.github.io/portfolio-jessika/)
+- [GitHub](https://github.com/Jessy-Carla)
 
 ---
 
-## 🌟 Competências
-
-✔ Trabalho em equipe
-
-✔ Organização
-
-✔ Aprendizado contínuo
-
-✔ Resolução de problemas
-
-✔ Comunicação
-
-✔ Comprometimento
-
----
-
-## 📫 Contato
-
-🐙 GitHub: https://github.com/Jessy-Carla
-
-💼 LinkedIn: www.linkedin.com/in/jéssika-s-46b532b9
-
-
-📧 E-mail: je.carla@hotmail.com.br
-
----
+<sub>☾ Construindo meu próprio universo, uma linha de código por vez.</sub>
 
 ### "A tecnologia move o mundo, e eu estou construindo meu caminho para fazer parte dessa transformação." 🚀
 
