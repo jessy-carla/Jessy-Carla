@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-gothic.png" width="100%" alt="Jéssika Carla - Desenvolvedora Front-End">
+  <img src="[assets/banner-gothic.png](https://github.com/jessy-carla/Jessy-Carla/blob/main/assets/a_dark_mystical_elegant_purple_and_black_themed.png)" width="100%" alt="Jéssika Carla - Desenvolvedora Front-End">
 </p>
 
 # ☾ Jéssika Carla
