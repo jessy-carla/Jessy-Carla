@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner-gothic.png" width="100%" alt="Jéssika Carla - Desenvolvedora Front-End">
+</p>
+
 # ☾ Jéssika Carla
 
 ### Desenvolvedora Front-End | React | UX/UI
